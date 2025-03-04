@@ -45,16 +45,10 @@ function Cont() {
                   <i className="bi bi-phone flex-shrink-0"></i>
                   <div>
                     <h4>Call:</h4>
-                    <p>+91-9014279195 </p>
+                    <p>+91 907 250 2065 </p>
                   </div>
                 </div>
-                <div className="info-item d-flex">
-                  <i className="bi bi-clock flex-shrink-0"></i>
-                  <div>
-                    <h4>Open Hours:</h4>
-                    <p>Mon-Sat: 8AM - 6PM</p>
-                  </div>
-                </div>
+                
               </div>
             </div>
 

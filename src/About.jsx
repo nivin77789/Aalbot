@@ -10,26 +10,17 @@ function About() {
 
   return (
     <div className="App">
-      <section id="about" className="about">
+     <section id="about" className="about">
         <div className="container" data-aos="fade-up">
           <div className="section-header">
             <h2>About Us</h2>
             <p>
-              Our mission is to empower businesses of all sizes with AI-driven
-              tools that enhance their decision-making capabilities. We believe
-              that by leveraging advanced algorithms and predictive modelling,
-              businesses can navigate complexities, seize opportunities, and
-              stay ahead of the curve.
+              Welcome to the School of Android & Linux Programming, where Aalbot provides top-notch training and professional services. Our mission is to equip individuals and businesses with the skills and tools needed to excel in the ever-evolving world of technology.
             </p>
           </div>
 
           <div className="row about-div abt gy-4" data-aos="fade-right">
             <div className="col-lg-6 abt-img ab-img1">
-              {/* <img
-                  src="assets/img/about.png"
-                  className="img-fluid ab-img rounded-4 mb-4 moveArrow"
-                  alt=""
-                /> */}
               <div class="pyramid-loader">
                 <div class="wrapper">
                   <span class="side side1"></span>
@@ -56,11 +47,7 @@ function About() {
                   </div>
                   <div class="card__content">
                     <p className="blik">
-                      At AalbotAi, we are driven by the vision of
-                      revolutionising decision-making through the power of
-                      AI&ML. As a leading innovator in the field, we specialise
-                      in crafting solutions that enable businesses to transform
-                      data into strategic insights
+                      At Aalbot, we specialize in training individuals in Android and Linux programming while also offering AI-powered solutions for business ERP systems. Our programs are designed to empower learners with practical knowledge and hands-on experience to build robust, scalable applications.
                       <span class="terminal_cursor"></span>
                     </p>
                   </div>
@@ -86,12 +73,7 @@ function About() {
                   </div>
                   <div class="card__content">
                     <p>
-                      Our cutting-edge AI/ML solutions offer businesses a
-                      competitive edge by transforming raw data into actionable
-                      insights. Through advanced algorithms and predictive
-                      modelling, we enable companies to anticipate market
-                      trends, identify opportunities, and mitigate risks with
-                      unprecedented accuracy
+                      Our expertise extends beyond education, as we also provide AI-driven solutions for Business ERP, enabling companies to automate operations, enhance decision-making, and drive efficiency. From predictive analytics to intelligent automation, we help businesses stay ahead with cutting-edge AI technology.
                       <span class="terminal_cursor"></span>
                     </p>
                   </div>
@@ -108,12 +90,12 @@ function About() {
                   <span style={{ "--i": 3 }} class="cube-span"></span>
                   <div class="cube-container">
                     <div class="cube">
-                      <div class="face front">PoC Development</div>
-                      <div class="face back">Bias Mitigation</div>
-                      <div class="face right">Optimisation</div>
-                      <div class="face left">AI-Driven</div>
-                      <div class="face top">Maintenance</div>
-                      <div class="face bottom">Data Labelling </div>
+                      <div class="face front"></div>
+                      <div class="face back"></div>
+                      <div class="face right"></div>
+                      <div class="face left"></div>
+                      <div class="face top"></div>
+                      <div class="face bottom"></div>
                     </div>
                   </div>
                 </div>
@@ -122,6 +104,7 @@ function About() {
           </div>
         </div>
       </section>
+
     </div>
   );
 }

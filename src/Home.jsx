@@ -5,7 +5,7 @@ import Landing from "./Landing";
 import About from "./About";
 import Marq from "./Marq";
 import Cont from "./Cont";
-import Action from "./Action";
+import Service from "./Service";
 
 function Home() {
   useEffect(() => {
@@ -18,7 +18,7 @@ function Home() {
       <main id="main">
         <Marq />
         <About />
-        <Action />
+        <Service/>
         <Cont />
       </main>
     </div>

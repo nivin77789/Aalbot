@@ -8,13 +8,14 @@ function Action() {
     AOS.init();
   }, []);
   return (
+    <div className="App">
       <div className="closeup">
         <h2>
-          We Speak <span className="text-col">Fluent Algorithm</span>
+        Engineering Intelligence,<span className="text-col">Empowering Innovation.</span>
         </h2>
       </div>
-     
-   
+    
+    </div>
   );
 }
 

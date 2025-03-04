@@ -16,7 +16,7 @@ function Footer() {
               <a href="index.html" className="logo d-flex align-items-center">
                 <span>Aalbot</span>
               </a>
-              <p>We Speak Fluent Algorithm</p>
+              <p>Engineering Intelligence, Empowering Innovation.</p>
               <div className="social-links d-flex mt-4">
                 <a href="./" className="twitter">
                   <i className="bi bi-twitter"></i>
@@ -56,17 +56,15 @@ function Footer() {
               <h4>Our Services</h4>
               <ul>
                 <li>
-                  <a href="./">AI Ethics and Bias Mitigation</a>
+                  <a href="./">Android Development Training</a>
                 </li>
                 <li>
-                  <a href="./">Supply Chain Optimisation:</a>
+                  <a href="./">Linux Programming Mastery</a>
                 </li>
                 <li>
-                  <a href="./">AI-Driven Cybersecurity</a>
+                  <a href="./">AI-Powered Business ERP Solutions</a>
                 </li>
-                <li>
-                  <a href="./">Predictive Maintenance</a>
-                </li>
+               
               </ul>
             </div>
 
@@ -76,7 +74,7 @@ function Footer() {
                 <strong>Location:</strong> Bengaluru
               </p>
               <p>
-                <strong>Phone:</strong> +91 9014279195
+                <strong>Phone:</strong> +91 907 250 2065
               </p>
               <p>
                 <strong>Email:</strong> contact@Aalbotai.in

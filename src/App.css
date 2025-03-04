@@ -199,13 +199,8 @@
   text-align: center;
   padding: 20px;
   height: 600px;
-  background: rgb(0, 0, 0);
-  background: linear-gradient(
-    0deg,
-    rgba(0, 0, 0, 0.8954175420168067) 30%,
-    rgba(41, 21, 87, 0.727) 53%,
-    rgba(0, 0, 0, 0.9458377100840336) 72%
-  );
+  background:#040C38;
+  
 }
 .closeup h2 {
   font-size: 60px;
@@ -1787,13 +1782,13 @@ section {
 --------------------------------------------------------------*/
 .services {
   padding: 60px 0;
-  background-color: #000;
+  background-color: #040C38;
 }
 
 .services .service-item {
   transition: transform 0.2s;
   padding: 40px;
-  background: #0f0f0f;
+  background: #050B2D;
   height: 100%;
   border-radius: 10px;
 }
@@ -2860,7 +2855,7 @@ section {
   padding: 60px 30px;
   position: relative;
   overflow: hidden;
-  background: #0b0a0a;
+  background: #0F1748;
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease-in-out;
   border-radius: 8px;

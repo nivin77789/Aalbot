@@ -146,7 +146,7 @@ function Landing() {
                     </div>
                     <h4 className="title">
                       <a href="./" className="stretched-link">
-                        Innovation
+                        Training
                       </a>
                     </h4>
                   </div>

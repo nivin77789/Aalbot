@@ -11,7 +11,6 @@ function Marq() {
   const arr = [1, 2, 3, 4, 5, 6, 7,8];
   return (
     <div className="App">
-      <center><div className="Marq-header"><h2>Placement with OEMS</h2></div></center>
       <center>
         <div className="marq">
           <Marquee className="marq-s">
