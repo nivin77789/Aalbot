@@ -29,7 +29,7 @@ function Cont() {
                   <i className="bi bi-geo-alt flex-shrink-0"></i>
                   <div>
                     <h4>Location:</h4>
-                    <p>Bengaluru</p>
+                    <p>Kollam</p>
                   </div>
                 </div>
 
@@ -37,7 +37,7 @@ function Cont() {
                   <i className="bi bi-envelope flex-shrink-0"></i>
                   <div>
                     <h4>Email:</h4>
-                    <p>contact@Aalbotai.in</p>
+                    <p>contact@aalbot.in</p>
                   </div>
                 </div>
 
