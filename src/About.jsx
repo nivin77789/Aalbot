@@ -18,7 +18,7 @@ function About() {
               Welcome to the School of Android & Linux Programming, where Aalbot provides top-notch training and professional services. Our mission is to equip individuals and businesses with the skills and tools needed to excel in the ever-evolving world of technology.
             </p>
           </div>
-
+          
           <div className="row about-div abt gy-4" data-aos="fade-right">
             <div className="col-lg-6 abt-img ab-img1">
               <div class="pyramid-loader">
@@ -55,6 +55,7 @@ function About() {
               </div>
             </div>
           </div>
+          
 
           <div className="row about-div2 abt gy-4" data-aos="fade-left">
             <div className="col-lg-6">

@@ -51,9 +51,9 @@ function App() {
         <header id="header" className="header d-flex align-items-center">
           <div className="container-fluid land-text container-xl d-flex align-items-center justify-content-between">
             <a href="index.html" className="logo d-flex align-items-center">
-              <img src="assets/img/logo.png" alt="" />
+             
               <h1>
-                Aalbot<span>.</span>
+              <img src="assets/img/logo.png" alt="" /><span>.</span>
               </h1>
             </a>
             <nav id="navbar" className="navbar">
