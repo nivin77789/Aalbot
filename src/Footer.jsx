@@ -71,13 +71,13 @@ function Footer() {
             <div className="col-lg-3 col-md-12 footer-contact text-center text-md-start">
               <h4>Contact Us</h4>
               <p>
-                <strong>Location:</strong> Bengaluru
+                <strong>Location:</strong> Kollam
               </p>
               <p>
                 <strong>Phone:</strong> +91 907 250 2065
               </p>
               <p>
-                <strong>Email:</strong> contact@Aalbotai.in
+                <strong>Email:</strong> contact@aalbot.in
               </p>
             </div>
           </div>
