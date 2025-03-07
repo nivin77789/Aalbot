@@ -18,19 +18,25 @@ function Service() {
             At Aalbot, we provide top-tier training in Android and Linux programming, along with AI-powered solutions for Business ERP. Our goal is to equip businesses and individuals with the skills and tools needed to thrive in the digital era.
           </p>
         </div>
-
+        
         <div className="row gy-4" data-aos="fade-up" data-aos-delay="100">
-          <div className="col-lg-4 col-md-6 ">
-            <div className="service-item position-relative">
-              <div className="icon">
-                <i className="bi bi-code-slash"></i>
-              </div>
-              <h3>Android Development Training</h3>
-              <p>
-                Comprehensive training in Android app development, covering fundamentals, advanced techniques, and real-world project implementation.
-              </p>
-            </div>
-          </div>
+        
+        <div className="col-lg-4 col-md-6">
+  <div
+    className="service-item position-relative"
+    style={{ cursor: "pointer" }}
+    onClick={() => window.open("/assets/img/df.pdf", "_blank")}
+  >
+    <div className="icon">
+      <i className="bi bi-code-slash"></i>
+    </div>
+    <h3>Android Development Training</h3>
+    <p>
+      Comprehensive training in Android app development, covering fundamentals, advanced techniques, and real-world project implementation.
+    </p>
+  </div>
+</div>
+
 
           <div className="col-lg-4 col-md-6 ">
             <div className="service-item position-relative">

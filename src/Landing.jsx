@@ -24,7 +24,7 @@ function Landing() {
                     }
                   >
                     <h2>
-                    Be an Automotive Dev
+                    Be a <br/>Developer
                     </h2>
                     <h1>
                       <p>

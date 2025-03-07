@@ -53,7 +53,7 @@ function App() {
             <a href="index.html" className="logo d-flex align-items-center">
              
               <h1>
-              <img src="assets/img/logo.png" alt="" /><span>.</span>
+              <img src="assets/img/logo.png" alt="" />aalbot<span>.</span>
               </h1>
             </a>
             <nav id="navbar" className="navbar">
