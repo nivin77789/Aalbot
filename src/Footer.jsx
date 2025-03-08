@@ -18,12 +18,7 @@ function Footer() {
               </a>
               <p>Engineering Intelligence, Empowering Innovation.</p>
               <div className="social-links d-flex mt-4">
-                <a href="./" className="twitter">
-                  <i className="bi bi-twitter"></i>
-                </a>
-                <a href="./" className="facebook">
-                  <i className="bi bi-facebook"></i>
-                </a>
+                
                 <a href="https://www.instagram.com/aalbot.ai/" className="instagram">
                   <i className="bi bi-instagram"></i>
                 </a>
