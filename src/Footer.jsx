@@ -24,10 +24,10 @@ function Footer() {
                 <a href="./" className="facebook">
                   <i className="bi bi-facebook"></i>
                 </a>
-                <a href="./" className="instagram">
+                <a href="https://www.instagram.com/aalbot.ai/" className="instagram">
                   <i className="bi bi-instagram"></i>
                 </a>
-                <a href="./" className="linkedin">
+                <a href="https://www.linkedin.com/company/aalbot/" className="linkedin">
                   <i className="bi bi-linkedin"></i>
                 </a>
               </div>
